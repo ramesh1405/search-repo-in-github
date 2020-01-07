@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RepoSearchInGit</string>
+    <string name="et_repository_search">Repository Search</string>
+    <string name="et_language">Language ( OPTIONAL )</string>
+    <string name="btn_search_repositories">Search</string>
+    <string name="browsed_results">Browsed Results</string>
+    <string name="title_activity_display">DisplayActivity</string>
+</resources>
